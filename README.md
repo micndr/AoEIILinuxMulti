@@ -21,9 +21,9 @@ It is possible that the copy instruction doesn't work; in thios case the possibl
 
     ~/.steam/steam/steamapps/compatdata/813780/pfx/drive_c/windows/system32$
 
-and manually delete ucrtbase.dll, then copy it again, now it will works.
+and manually delete ucrtbase.dll, then copy it again, now it should works.
 
 ## Acknowledgements
-Every information to create this script come from the analysis of protonDB, for every doubt, simply check the AoEII's page of protonDB.
+Every information to create this script comes from the analysis of protonDB, for every doubt, simply check the AoEII's page of protonDB.
 
 Enjoy the game! :)
